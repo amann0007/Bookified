@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { MAX_FILE_SIZE, ACCEPTED_PDF_TYPES, ACCEPTED_IMAGE_TYPES } from './constants';
+import {MAX_FILE_SIZE, ACCEPTED_PDF_TYPES, ACCEPTED_IMAGE_TYPES, MAX_IMAGE_SIZE} from './constants';
 
 export const UploadSchema = z.object({
     bookFile: z
@@ -19,7 +19,7 @@ export const UploadSchema = z.object({
         }, "Cover image must be a file")
         .refine((file) => {
             if (!file) return true;
-            return file.size <= 10 * 1024 * 1024;
+            return file.size <= MAX_IMAGE_SIZE;
         }, `Image size must be less than 10MB.`)
         .refine((file) => {
             if (!file) return true;
