@@ -61,8 +61,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 - **[Next.js](https://nextjs.org/docs)** is a powerful React framework for building full-stack web applications. It handles the core application logic, server-side rendering, and API routes, enabling a fast and responsive interface for the Bookified platform.
 
-- **[PostHog](https://jsm.dev/books-posthog)** is an all-in-one open-source product OS that provides powerful analytics, session recording, and feature flagging. It allows developers to track user behavior, analyze funnel conversion, and gather deep insights into how users are interacting with their application in real-time.
-
 - **[Shadcn UI](https://ui.shadcn.com/)** is a collection of re-usable, accessible components built with Tailwind CSS and Radix UI. It allows for the creation of a clean, modular, and professional-grade user interface that is easy to customize and theme.
 
 - **[TypeScript](https://www.typescriptlang.org/)** is a superset of JavaScript that adds static typing, providing better tooling, code quality, and error detection. It ensures the application remains maintainable and robust as the codebase scales.
@@ -172,6 +170,6 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href=["](https://jsm.dev/books-jsm)" target="_blank">
+<a href="https://jsm.dev/books-jsm" target="_blank">
   <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
 </a>
