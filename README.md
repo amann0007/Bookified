@@ -52,7 +52,7 @@ Follow these steps to set up the project locally on your machine.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_bookified.git
+git clone https://github.com/amann0007/Bookified.git
 cd jsm_bookified
 ```
 
