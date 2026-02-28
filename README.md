@@ -1,9 +1,3 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/NiwawEe92Co" target="_blank">
-      <img src="public/readme/readme-hero-new.webp" alt="Project Banner">
-    </a>
-  <br />
 
 ## 📋 <a name="table">Table of Contents</a>
  ✨ [Introduction](#introduction)
