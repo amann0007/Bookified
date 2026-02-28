@@ -6,15 +6,11 @@
   <br />
 
 ## 📋 <a name="table">Table of Contents</a>
-
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-
+ ✨ [Introduction](#introduction)
+ ⚙️ [Tech Stack](#tech-stack)
+ 🔋 [Features](#features)
+ 🤸 [Quick Start](#quick-start)
+ 
 ## <a name="introduction">✨ Introduction</a>
 
 Bookified is an AI-powered platform that lets you have real-time voice conversations with your books. Built with Next.js 16, Vapi, and MongoDB, it transforms PDFs into interactive entities using natural voice synthesis. Choose from custom ElevenLabs personas to chat with your library, request summaries, and view live transcripts—all wrapped in a sleek Shadcn UI with Clerk authentication. 
